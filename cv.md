@@ -17,9 +17,9 @@
 - analytic mind;
 - penchant for intellectual work.
 
-####At the moment I earn by manual labor. Hence my goal number 1 is to change the field of activity.
+#### At the moment I earn by manual labor. Hence my goal number 1 is to change the field of activity.
 
-####At the moment, I am already familiar with HTML and CSS3, learning the basics of JavaScript and other materials that make up the conceptual image of a front-end developer, according to Frontend Road Map 2021.
+#### At the moment, I am already familiar with HTML and CSS3, learning the basics of JavaScript and other materials that make up the conceptual image of a front-end developer, according to Frontend Road Map 2021.
 
 #### For a quick start, the course "Website Development in HTML and CSS for Beginners" _by Dmitry Valak_ was taken.
 
