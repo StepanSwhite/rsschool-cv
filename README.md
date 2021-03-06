@@ -1,1 +1,1 @@
-https://stepanswhite.github.io/rsschool-cv/cv
+https://stepanswhite.github.io/rsschool-cv/
